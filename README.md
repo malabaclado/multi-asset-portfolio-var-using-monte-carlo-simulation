@@ -20,6 +20,9 @@ Steps in Calculating VaR using Monte Carlo Simulation
 6. Simulate 10,000 cases
 7. Calculate the Value-at-Risk by getting the percentile of all simulated case.
 
+## VBA Codes
+Click [here](https://www.notion.so/malabaclado/Multi-asset-Portfolio-VaR-Calculation-using-Monte-Carlo-Method-213fb84ab8bc80a69f60ce7037fd3a12) to see the VBA codes written in the Excel file.
+
 
 ## Demo Instructions
 1. Configure the prelimenary parameters including the assets in the portfolio and the percent allocation for each asset, total amount of investment and the number of trading days to be considered.
