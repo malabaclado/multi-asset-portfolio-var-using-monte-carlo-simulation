@@ -1,11 +1,13 @@
 
 # Multi-asset Portfolio VaR Calculation using Monte Carlo Method in Excel
 
+![](img\banner.png)
+
 In this project, I created a VBA-based application on Excel to calculate the value at risk of a multi-asset portfolio using Monte Carlo method.
 
 
 Value-at-Risk (VaR) is a widely used market risk measure used to calculate the expected possible loss on a particular investment for a certain period of time, given some probability. This measure is  used by investment and commercial banks to determin the extent and probabilities of potential losses in their institutional portfolios.
-
+j
 This project aims to create an Excel application that pulls stock market data and calculate the Value-at-Risk of a multi-asset portfolio using Monte Carlo Simulation.
 
 ## Mathematics: Value-at-Risk Calculation using Monte Carlo Simulation
@@ -31,3 +33,4 @@ Click [here](https://www.notion.so/malabaclado/Multi-asset-Portfolio-VaR-Calcula
 4. Click the button "Simulate"
 
 The above steps would direct you to a VaR analysis of the multi-asset portfolio.
+
