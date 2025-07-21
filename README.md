@@ -1,7 +1,7 @@
 
 # Multi-asset Portfolio VaR Calculation using Monte Carlo Method in Excel
 
-[![banner](img\banner.png)]()
+![Project Banner](img\banner.png "Banner")
 
 In this project, I created a VBA-based application on Excel to calculate the value at risk of a multi-asset portfolio using Monte Carlo method.
 
